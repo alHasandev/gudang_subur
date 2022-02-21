@@ -1,0 +1,36 @@
+.btn-primary {
+	background-color: #343a40;
+	border-color: #343a40;
+}
+
+.btn-primary:focus {
+	background-color: #343a40;
+	border-color: #343a40;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+	background-color: #343a40;
+	border-color: #343a40;
+}
+
+.btn-primary:hover {
+	background-color: #343a40;
+	border-color: #343a40;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+	background-color: #343a40;
+}
+
+/* Table */
+.table tr td {
+	vertical-align: middle;
+}
+
+/* form */
+.modal-header {
+	background-color: #87ceeb;
+}
